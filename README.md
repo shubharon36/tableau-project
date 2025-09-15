@@ -22,7 +22,7 @@ This project is an interactive data exploration tool built in Tableau that analy
 ### 1. Geospatial Analysis
 
 * **Choropleth Maps** were used to visualize pandemic metrics globally, such as Case Fatality Rate (CFR), recovery rates, and weekly case increases.
-* **Advanced Filtering** was implemented to create a "critical outbreak" map, highlighting countries that met two criteria simultaneously: >1,000 active cases AND >25% weekly increase, effectively identifying high-risk nations[cite: 3559, 3562].
+* **Advanced Filtering** was implemented to create a "critical outbreak" map, highlighting countries that met two criteria simultaneously: >1,000 active cases AND >25% weekly increase, effectively identifying high-risk nations.
 * **Quadrant Analysis** was used to categorize countries into segments like "Stable Hotspots" (high active cases, low increase) to inform different management strategies. The US, Brazil, and India were identified in this quadrant.
 
 ### 2. Correlation Analysis
@@ -33,7 +33,7 @@ This project is an interactive data exploration tool built in Tableau that analy
 ## Key Insights & Recommendations
 
 * **Insight**: The European and American WHO regions exhibit the highest median CFRs (3.86% and 2.58% respectively).
-    ***Recommendation**: Conduct cross-regional studies to understand systemic differences in healthcare infrastructure and policies that led to better outcomes in other regions.
+* **Recommendation**: Conduct cross-regional studies to understand systemic differences in healthcare infrastructure and policies that led to better outcomes in other regions.
 * **Insight**: A strong positive correlation exists between a country's literacy rate and its internet penetration, suggesting literacy is a key enabler of digital adoption.
     * **Recommendation**: Development policies aimed at increasing digital access should be paired with investments in foundational education and literacy.
 * **Insight**: Larger populations generally correspond to higher total greenhouse gas emissions, but outliers exist. The U.S. emits more relative to its population, while India emits less.
