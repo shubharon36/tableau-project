@@ -15,15 +15,15 @@ This project is an interactive data exploration tool built in Tableau that analy
 ## Data Sources
 
 * COVID-19 Pandemic Dataset (aggregated by country)
-* World Development Indicators Dataset (focusing on GDP, Population, CO2 Emissions, Life Expectancy, Literacy, and Internet Users)[cite: 3304].
+* World Development Indicators Dataset (focusing on GDP, Population, CO2 Emissions, Life Expectancy, Literacy, and Internet Users).
 
 ## Methodology & Visualizations
 
 ### 1. Geospatial Analysis
 
-* **Choropleth Maps** were used to visualize pandemic metrics globally, such as Case Fatality Rate (CFR), recovery rates, and weekly case increases[cite: 3487, 3502, 3517].
+* **Choropleth Maps** were used to visualize pandemic metrics globally, such as Case Fatality Rate (CFR), recovery rates, and weekly case increases.
 * **Advanced Filtering** was implemented to create a "critical outbreak" map, highlighting countries that met two criteria simultaneously: >1,000 active cases AND >25% weekly increase, effectively identifying high-risk nations[cite: 3559, 3562].
-* **Quadrant Analysis** was used to categorize countries into segments like "Stable Hotspots" (high active cases, low increase) to inform different management strategies[cite: 3573]. [cite_start]The US, Brazil, and India were identified in this quadrant[cite: 3577].
+* **Quadrant Analysis** was used to categorize countries into segments like "Stable Hotspots" (high active cases, low increase) to inform different management strategies. The US, Brazil, and India were identified in this quadrant.
 
 ### 2. Correlation Analysis
 
